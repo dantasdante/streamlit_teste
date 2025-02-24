@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-modelo = joblib.load()
+modelo = joblib.load('mdl.pkl')
 
 st.title("Modelo de Classificação - Doença Cardíaca")
 
