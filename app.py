@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1OauodDttx4q17737ue_rDtqtrySI6TWI
 """
 
-pip install streamlit
 
 import pandas as pd
 import seaborn as sns
